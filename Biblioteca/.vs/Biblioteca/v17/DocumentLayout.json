@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\services\\pagamentos\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:services\\pagamentos\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\services\\pagamentos\\cr\u00E9dito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:services\\pagamentos\\cr\u00E9dito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\services\\pagamentos\\pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:services\\pagamentos\\pagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\entities\\exceptions\\excess\u00F5esprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:entities\\exceptions\\excess\u00F5esprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\services\\pagamentos\\pix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:services\\pagamentos\\pix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\services\\listas\\booklists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:services\\listas\\booklists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\services\\listas\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:services\\listas\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\services\\listas\\userlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:services\\listas\\userlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\services\\pagamentos\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:services\\pagamentos\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|c:\\users\\alexa\\desktop\\programa\u00E7\u00E3o\\interface de biblioteca\\biblioteca\\entities\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114E8F2-1AB3-4A4C-B56A-08717EA86128}|Biblioteca.csproj|solutionrelative:entities\\livros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 520,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:20:58.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLists.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Listas\\UserLists.cs",
+              "RelativeDocumentMoniker": "Services\\Listas\\UserLists.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Listas\\UserLists.cs",
+              "RelativeToolTip": "Services\\Listas\\UserLists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:47:09.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Listas\\Estoque.cs",
+              "RelativeDocumentMoniker": "Services\\Listas\\Estoque.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Listas\\Estoque.cs",
+              "RelativeToolTip": "Services\\Listas\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:47:08.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookLists.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Listas\\BookLists.cs",
+              "RelativeDocumentMoniker": "Services\\Listas\\BookLists.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Listas\\BookLists.cs",
+              "RelativeToolTip": "Services\\Listas\\BookLists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:47:07.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:47:02.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cr\u00E9dito.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Cr\u00E9dito.cs",
+              "RelativeDocumentMoniker": "Services\\Pagamentos\\Cr\u00E9dito.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Cr\u00E9dito.cs",
+              "RelativeToolTip": "Services\\Pagamentos\\Cr\u00E9dito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:02:00.101Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Excess\u00F5esPrograma.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Entities\\Exceptions\\Excess\u00F5esPrograma.cs",
+              "RelativeDocumentMoniker": "Entities\\Exceptions\\Excess\u00F5esPrograma.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Entities\\Exceptions\\Excess\u00F5esPrograma.cs",
+              "RelativeToolTip": "Entities\\Exceptions\\Excess\u00F5esPrograma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:33:21.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pagamentos.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Pagamentos.cs",
+              "RelativeDocumentMoniker": "Services\\Pagamentos\\Pagamentos.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Pagamentos.cs",
+              "RelativeToolTip": "Services\\Pagamentos\\Pagamentos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:48:02.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "Services\\Pagamentos\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Emprestimo.cs",
+              "RelativeToolTip": "Services\\Pagamentos\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:47:59.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Compra.cs",
+              "RelativeDocumentMoniker": "Services\\Pagamentos\\Compra.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Compra.cs",
+              "RelativeToolTip": "Services\\Pagamentos\\Compra.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:00:48.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Livros.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Entities\\Livros.cs",
+              "RelativeDocumentMoniker": "Entities\\Livros.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Entities\\Livros.cs",
+              "RelativeToolTip": "Entities\\Livros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:01:56.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pix.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Pix.cs",
+              "RelativeDocumentMoniker": "Services\\Pagamentos\\Pix.cs",
+              "ToolTip": "C:\\Users\\alexa\\Desktop\\Programa\u00E7\u00E3o\\Interface de Biblioteca\\Biblioteca\\Services\\Pagamentos\\Pix.cs",
+              "RelativeToolTip": "Services\\Pagamentos\\Pix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T23:02:01.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
